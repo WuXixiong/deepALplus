@@ -1,0 +1,291 @@
+Downloading http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
+Failed to download (trying next):
+HTTP Error 403: Forbidden
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-images-idx3-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-images-idx3-ubyte.gz to ./data/MNIST/MNIST/raw/train-images-idx3-ubyte.gz
+Extracting ./data/MNIST/MNIST/raw/train-images-idx3-ubyte.gz to ./data/MNIST/MNIST/raw
+
+Downloading http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz
+Failed to download (trying next):
+HTTP Error 403: Forbidden
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-labels-idx1-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-labels-idx1-ubyte.gz to ./data/MNIST/MNIST/raw/train-labels-idx1-ubyte.gz
+Extracting ./data/MNIST/MNIST/raw/train-labels-idx1-ubyte.gz to ./data/MNIST/MNIST/raw
+
+Downloading http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
+Failed to download (trying next):
+HTTP Error 403: Forbidden
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-images-idx3-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-images-idx3-ubyte.gz to ./data/MNIST/MNIST/raw/t10k-images-idx3-ubyte.gz
+Extracting ./data/MNIST/MNIST/raw/t10k-images-idx3-ubyte.gz to ./data/MNIST/MNIST/raw
+
+Downloading http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
+Failed to download (trying next):
+HTTP Error 403: Forbidden
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-labels-idx1-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-labels-idx1-ubyte.gz to ./data/MNIST/MNIST/raw/t10k-labels-idx1-ubyte.gz
+Extracting ./data/MNIST/MNIST/raw/t10k-labels-idx1-ubyte.gz to ./data/MNIST/MNIST/raw
+
+MNIST
+RANDOM SEED 4666
+RandomSampling
+Round 0
+testing accuracy 0.6351
+
+
+Round 1
+testing accuracy 0.8509
+
+
+Round 2
+testing accuracy 0.8906
+
+
+Round 3
+testing accuracy 0.5206
+
+
+Round 4
+testing accuracy 0.9286
+
+
+Round 5
+testing accuracy 0.9274
+
+
+Round 6
+testing accuracy 0.9188
+
+
+Round 7
+testing accuracy 0.8714
+
+
+Round 8
+testing accuracy 0.5837
+
+
+Round 9
+testing accuracy 0.9536
+
+
+Round 10
+testing accuracy 0.8791
+
+
+SEED 4666
+RandomSampling
+[0.6351 0.8509 0.8906 0.5206 0.9286 0.9274 0.9188 0.8714 0.5837 0.9536
+ 0.8791]
+MNIST
+RANDOM SEED 4666
+RandomSampling
+Round 0
+testing accuracy 0.6321
+
+
+Round 1
+testing accuracy 0.846
+
+
+Round 2
+testing accuracy 0.8817
+
+
+Round 3
+testing accuracy 0.6627
+
+
+Round 4
+testing accuracy 0.9274
+
+
+Round 5
+testing accuracy 0.9353
+
+
+Round 6
+testing accuracy 0.9205
+
+
+Round 7
+testing accuracy 0.9208
+
+
+Round 8
+testing accuracy 0.7784
+
+
+Round 9
+testing accuracy 0.8947
+
+
+Round 10
+testing accuracy 0.9172
+
+
+SEED 4666
+RandomSampling
+[0.6321 0.846  0.8817 0.6627 0.9274 0.9353 0.9205 0.9208 0.7784 0.8947
+ 0.9172]
+MNIST
+RANDOM SEED 4666
+RandomSampling
+Round 0
+testing accuracy 0.544
+
+
+Round 1
+testing accuracy 0.8444
+
+
+Round 2
+testing accuracy 0.8823
+
+
+Round 3
+testing accuracy 0.7802
+
+
+Round 4
+testing accuracy 0.8964
+
+
+Round 5
+testing accuracy 0.9328
+
+
+Round 6
+testing accuracy 0.9193
+
+
+Round 7
+testing accuracy 0.939
+
+
+Round 8
+testing accuracy 0.6134
+
+
+Round 9
+testing accuracy 0.9235
+
+
+Round 10
+testing accuracy 0.868
+
+
+SEED 4666
+RandomSampling
+[0.544  0.8444 0.8823 0.7802 0.8964 0.9328 0.9193 0.939  0.6134 0.9235
+ 0.868 ]
+MNIST
+RANDOM SEED 4666
+RandomSampling
+Round 0
+testing accuracy 0.6291
+
+
+Round 1
+testing accuracy 0.8446
+
+
+Round 2
+testing accuracy 0.8896
+
+
+Round 3
+testing accuracy 0.768
+
+
+Round 4
+testing accuracy 0.9272
+
+
+Round 5
+testing accuracy 0.9305
+
+
+Round 6
+testing accuracy 0.9408
+
+
+Round 7
+testing accuracy 0.9153
+
+
+Round 8
+testing accuracy 0.7337
+
+
+Round 9
+testing accuracy 0.8792
+
+
+Round 10
+testing accuracy 0.8966
+
+
+SEED 4666
+RandomSampling
+[0.6291 0.8446 0.8896 0.768  0.9272 0.9305 0.9408 0.9153 0.7337 0.8792
+ 0.8966]
+MNIST
+RANDOM SEED 4666
+RandomSampling
+Round 0
+testing accuracy 0.5519
+
+
+Round 1
+testing accuracy 0.8555
+
+
+Round 2
+testing accuracy 0.9009
+
+
+Round 3
+testing accuracy 0.9059
+
+
+Round 4
+testing accuracy 0.8964
+
+
+Round 5
+testing accuracy 0.9275
+
+
+Round 6
+testing accuracy 0.9201
+
+
+Round 7
+testing accuracy 0.9259
+
+
+Round 8
+testing accuracy 0.8344
+
+
+Round 9
+testing accuracy 0.9422
+
+
+Round 10
+testing accuracy 0.9212
+
+
+SEED 4666
+RandomSampling
+[0.5519 0.8555 0.9009 0.9059 0.8964 0.9275 0.9201 0.9259 0.8344 0.9422
+ 0.9212]
+0: 0.859
+1: 0.885
+mean AUBC(acc): 0.872. std dev AUBC(acc): 0.013
+mean time: 34.0. std dev time: 1.0
